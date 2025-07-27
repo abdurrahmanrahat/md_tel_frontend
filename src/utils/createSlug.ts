@@ -1,3 +1,4 @@
+// slug create
 export function createSlug(title: string) {
   return title
     .trim() // Remove leading/trailing spaces
